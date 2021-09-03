@@ -1,6 +1,4 @@
--- https://www.roblox.com/games/1962086868/Tower-of-Hell#
-
-print("haaahyyyaaaaaaaxcd")
+-- https://www.roblox.com/games/1962086868/Tower-of-Hell
 
 game:GetService("\83\116\97\114\116\101\114\71\117\105"):SetCore("\83\101\110\100\78\111\116\105\102\105\99\97\116\105\111\110", {
     Title = "\66\108\111\111\100\121\32\88\103";
